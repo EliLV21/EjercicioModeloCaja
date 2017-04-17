@@ -1,0 +1,11 @@
+.padre{
+  background-color: gray;
+}
+.hijo{
+  padding: 40px 20px 70px 100px;
+  border-top: 20px solid pink;
+  border-right: 10px solid pink;
+  border-bottom: 20px solid pink;
+  border-left: 10px solid pink;
+  margin: 120px 60px 30.5px 60px;
+}
